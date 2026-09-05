@@ -1,0 +1,9 @@
+Package: powerdocs
+Version: 26.9.0.0
+Architecture: amd64
+Homepage: https://link.coho-apps.dev/go/1011
+Section: office
+Priority: optional
+Maintainer: Sébastien Bouez
+Description: PowerDocs
+ PowerDocs is a high-performance document authoring and PDF publication designed for enterprise workflows.

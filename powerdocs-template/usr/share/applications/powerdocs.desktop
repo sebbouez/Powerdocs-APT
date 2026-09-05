@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PowerDocs
+Comment=Write docs in Markdown
+Exec=/usr/bin/powerdocs
+Icon=powerdocs
+Terminal=false
+Type=Application
+Categories=Office;
+StartupNotify=true
